@@ -1,4 +1,5 @@
-# RTOS
-trabalho de Sistema Operacional que simula uma cancela de trem no pic 18f4520
-<img src="https://giphy.com/embed/abTXF6J5xDaRWzhWWT">
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/abTXF6J5xDaRWzhWWT" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/CPTM-subway-railway-ferrovia-abTXF6J5xDaRWzhWWT">via GIPHY</a></p>
+# Altomação Cancela de Trem
+Trabalho realisado em Sistema Operacional embarcados, que tem o intuito de simular uma cancela de trem no pic18f4520, o funcionamento e abrir a cancela para passagem de carros e fechamento quando o trem se aproxima.
+<p align = "center">
+  <img src="https://github.com/miguelsrrobo/Interpretador_em_rust/blob/main/banner.png" alt="Rinha logo" width="200%" />
+</p>
